@@ -432,7 +432,7 @@ Se han creado cuatro usuarios, cada uno asignado a uno de los roles mencionados:
 
 ## Ejemplos para comprobar funcionamiento
 
-```sql
+sql
 USE lab_coder;
 
 CALL crear_talon(1, 20, 12345678,'Creatinina', 5, '2024-09-01 15:00:00', 'billetera virtual');
@@ -500,5 +500,6 @@ SELECT laboratorio_que_mas_facturo();
 
 
 ```
-#   L a b - S Q L  
+#   L a b - S Q L 
+ 
  
